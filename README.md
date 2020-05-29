@@ -32,6 +32,18 @@ public class Jumping : MonoBehaviour {
 	} 
 }
 ```
-It turns out, thankfully, that this assumption was true. Unity's physics engine is so powerful that only a few lines of code can create realistic 1-dimensional movement. The code above essentially applies an upward force to the player any time that the screen is touched – it couldn't be more simple. 
+It turns out, thankfully, that this assumption was true. Unity's physics engine is so powerful that only a few lines of code can create realistic 1-dimensional movement. The code above essentially applies an upward force to the player any time that the screen is touched and Unity takes care of the rest. After figuring this part out, I had the confidence to work on the other critical elements such as the environment, scoring system, player deaths, and the UI. The most difficult piece of code for me to figure out at this time actually involved the way the ground scrolled beneath the player. Since I only wanted the player to stay in one X-position, I decided to make the ground scroll underneath the player to make it seem like the player was moving. 
+
+```c#
+while (true) {
+	for (int i = 0; i < hazardCount; i++){
+		Vector3 spawnPosition = new Vector3 (spawnValues.x, Random.Range (spawnValues.y / 4, 					spawnValues.y), spawnValues.z);
+		Quaternion spawnRotation = Quaternion.identity;
+		Instantiate (hazard, spawnPosition, spawnRotation);
+		yield return new WaitForSeconds (spawnWait);
+	}
+	yield return new WaitForSeconds (waveWait);
+```
+}
 
 ## Conclusion
