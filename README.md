@@ -7,6 +7,8 @@ Happy Cloud is a simple side-scrolling game where you play as a joyful cloud wit
 
 In 2015, I was just 15 years old and a very inexperienced software developer. At the time I wasn't even sure that computer science or software engineering was something that I was interested in, let alone something that I wanted to pursue as a career. I have, however, always liked games and because of that I was fascinated by the process of creating games and wondered if it was possible for me to create my own. After a few days of research and watching YouTube videos about game development I decided I would give it a shot. Three months later Happy Cloud was released on the App Store and I had successfully finished my first major software project. It wasn't an easy process, but it is something that I am very proud of and a large part of the reason that I am pursuing computer science today.
 
+![Happy Cloud](/images/IMG_2409.PNG) 
+
 ## The Process
 
 Right from the start of the development process I found [Unity](https://unity.com/) to be the best game development engine for fledgling game developers such as myself. Additionally, Unity has a great selection of tutorials and free assets that makes it easy to develop games on your own. Given this, I spent about a month learning how to use Unity and work my way around the engine. At the time the idea behind Object Oriented Programming (OOP) was, without a question, lost on me. I found that through game development, however, the concept of OOP quickly became clear. Unity makes it very easy to associate specific scripts, values, shaders, sounds, etc. with in-game objects which is how I first really understood what OOP was and how it works. 
@@ -45,6 +47,6 @@ while (true) {
 ```
 ![Happy Cloud](/images/IMG_2411.PNG) 
 
-After figuring out the critical gameplay elements, it only took a few days to debug and make the game fully functional. While not the most attractive game ever, it was a working product and something I put a lot of hours into. After finishing the game in Unity, I had the opportunity to publish the game on the iOS App Store where it stayed for around 18 months and logged just above 3,000 downloads. Despite the simplicity of the design and code, Happy Cloud is still one of my favorite projects because it was where I got my start with computer science and what led me to become a better programmer. 
+After figuring out the critical gameplay elements, it only took a few days to debug and make the game fully functional. After this I was able to directly export the game from Unity to Xcode, which is a very pain-free process with Unity. While not the most attractive game ever, it was a working product and something I put a lot of hours into. After finishing the game in Unity, I had the opportunity to publish the game on the iOS App Store where it stayed for around 18 months and logged just above 3,000 downloads. Despite the simplicity of the design and code, Happy Cloud is still one of my favorite projects because it was where I got my start with computer science and what led me to become a better programmer. 
 
-![Happy Cloud](/images/IMG_2409.PNG) 
+If you are on the fence about game development, I recommend giving it a shot with Unity. Game development can be an excellent way to learn the core concepts of programming and software development – not to mention that it is downright fun to do, as well! Also, don't be scared of starting a project. There is nothing to lose, and game development is likely much easier than you think it is! Just start small and learn as you build!
