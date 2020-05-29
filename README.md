@@ -1,5 +1,5 @@
 # Happy-Cloud
-Happy Cloud is a simple side-scrolling game where you play as a rather joyful cloud and your goal is to collect coins and avoid the red balloons! It is surprisingly challenging, and a fun example of what can be done in Unity with only a few lines of code.
+Happy Cloud is a simple side-scrolling game where you play as a joyful cloud with the goal of collecting coins and avoiding the red balloons! It is surprisingly challenging, and a fun example of what can be done in Unity with only a few lines of code.
 
 ![Happy Cloud](/images/launch_1334x750.png)
 
