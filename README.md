@@ -43,7 +43,8 @@ while (true) {
 		yield return new WaitForSeconds (spawnWait);
 	}
 	yield return new WaitForSeconds (waveWait);
-```
 }
+```
+![Happy Cloud](/images/IMG_2411.PNG)
 
 ## Conclusion
