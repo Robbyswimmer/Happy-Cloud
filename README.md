@@ -37,7 +37,7 @@ It turns out, thankfully, that this assumption was true. Unity's physics engine 
 ```c#
 while (true) {
 	for (int i = 0; i < hazardCount; i++){
-		Vector3 spawnPosition = new Vector3 (spawnValues.x, Random.Range (spawnValues.y / 4, 					spawnValues.y), spawnValues.z);
+		Vector3 spawnPosition = new Vector3 (spawnValues.x, Random.Range (spawnValues.y / 4, spawnValues.y), spawnValues.z);
 		Quaternion spawnRotation = Quaternion.identity;
 		Instantiate (hazard, spawnPosition, spawnRotation);
 		yield return new WaitForSeconds (spawnWait);
