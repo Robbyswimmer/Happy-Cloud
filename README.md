@@ -45,4 +45,4 @@ while (true) {
 ```
 ![Happy Cloud](/images/IMG_2411.PNG) 
 
-While not the most attractive game ever, it was a working product and something I put a lot of hours into. After finishing the game in Unity, I had the opportunity to publish the game on the AppStore where it stayed for around 18 months and logged 3,000 downloads. Despite the simplicity of the design and code, Happy Cloud is still one of my favorite projects because it was where I got my start with computer science and what led me to become a better programmer. 
+After figuring out the critical gameplay elements, it only took a few days to debug and make the game fully functional. While not the most attractive game ever, it was a working product and something I put a lot of hours into. After finishing the game in Unity, I had the opportunity to publish the game on the iOS App Store where it stayed for around 18 months and logged 3,000 downloads. Despite the simplicity of the design and code, Happy Cloud is still one of my favorite projects because it was where I got my start with computer science and what led me to become a better programmer. 
