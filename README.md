@@ -1,13 +1,11 @@
 # Happy-Cloud
-This is a game I made a few years ago in Unity. It was released on the App Store and had about 3000 downloads. Happy Cloud is a simple game, but provided a valuable learning experience. You play as a cloud and the objective is to avoid flying, hot-air balloons and collect coins to increase your score.
+Happy Cloud is a simple side-scrolling game where you play as a rather joyful cloud and your goal is to collect coins and avoid the red balloons! It is surprisingly challenging, and a fun example of what can be done in Unity with only a few lines of code.
 
 ![Happy Cloud](/images/launch_1334x750.png)
 
 ## The Story Behind Happy Cloud
 
 In 2015, I was just 15 years old and a very inexperienced software developer. At the time I wasn't even sure that computer science or software engineering was something that I was interested in, let alone something that I wanted to pursue as a career. I have, however, always liked games and because of that I was fascinated by the process of creating games and wondered if it was possible for me to create my own. After a few days of research and watching YouTube videos about game development I decided I would give it a shot. Three months later Happy Cloud was released on the App Store and I had successfully finished my first major software project. It wasn't an easy process, but it is something that I am very proud of and a large part of the reason that I am pursuing computer science today.
-
-# Happy Cloud:
 
 ## The Process
 
@@ -45,6 +43,6 @@ while (true) {
 	yield return new WaitForSeconds (waveWait);
 }
 ```
-![Happy Cloud](/images/IMG_2411.PNG)
+![Happy Cloud](/images/IMG_2411.PNG) 
 
-## Conclusion
+While not the most attractive game ever, it was a working product and something I put a lot of hours into. After finishing the game in Unity, I had the opportunity to publish the game on the AppStore where it stayed for around 18 months and logged 3,000 downloads. Despite the simplicity of the design and code, Happy Cloud is still one of my favorite projects because it was where I got my start with computer science and what led me to become a better programmer. 
