@@ -9,7 +9,7 @@ In 2015, I was just 15 years old and a very inexperienced software developer. At
 
 ![Happy Cloud](/images/IMG_2409.PNG) 
 
-## The Process
+## Development of Happy Cloud
 
 Right from the start of the development process I found [Unity](https://unity.com/) to be the best game development engine for fledgling game developers such as myself. Additionally, Unity has a great selection of tutorials and free assets that makes it easy to develop games on your own. Given this, I spent about a month learning how to use Unity and work my way around the engine. At the time the idea behind Object Oriented Programming (OOP) was, without a question, lost on me. I found that through game development, however, the concept of OOP quickly became clear. Unity makes it very easy to associate specific scripts, values, shaders, sounds, etc. with in-game objects which is how I first really understood what OOP was and how it works. 
 
